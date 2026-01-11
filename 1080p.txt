@@ -1,0 +1,156 @@
+CCTV,#genre#CCTV
+CCTV-1综合 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1767843015&token=1088f7ba76ec56cc464bde3374ce3d65
+CCTV-2财经 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1767843015&token=1c90e8073b6a67a174f23f58df9cda32
+CCTV-4中文国际 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1767843015&token=fc319447e43b42398f0ababe0a1375c6
+CCTV-7国防军事 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1767843015&token=5c2ad5f35b2addbdb5d4e525788c1bc7
+CCTV-8电视剧 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1767843015&token=48b7ec2409187ce9a1dad3a11bfbd754
+CCTV-9纪录 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1767843015&token=17ed55eb1cb59fdb8af69356de5a3589
+CCTV-10科教 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1767843015&token=ff6adaf93e2d0fac3e6ae3599d2a6a6f
+CCTV-11戏曲 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1767843015&token=5a80b7a406717accc14f3bd48d04ba19
+CCTV-12社会与法 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV12&t=1767843015&token=65dc4cb322c1c5576d3c79dcf0086eef
+CCTV-15音乐 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1767843015&token=08b5ff9e2ce21f1707393510aa1e1b73
+CCTV-16奥林匹克 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1767843015&token=c8437a013b51af583357ed50993f57cd
+CCTV-17农业农村 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1767843015&token=6780009436dd8196bc8c97280c8249e7
+央视,#genre#
+CCTV1 [1080P],http://198.204.240.250:82/live/cctv1.m3u8
+CCTV2 [1080P],http://192.151.159.122:82/live/cctv2.m3u8
+CCTV3 [1080P],http://20.253.1.12/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
+CCTV4 [1080P],http://192.151.159.122:82/live/cctv4.m3u8
+CCTV5 [1080P],http://107.150.52.50:82/live/cctv5.m3u8
+CCTV6 [1080P],http://198.204.240.250:82/live/cctv6.m3u8
+CCTV7 [1080P],http://20.253.1.10/PLTV/88888888/224/3221225887/10000100000000060000000001558688_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
+CCTV8 [1080P],http://198.204.240.250:82/live/cctv8.m3u8
+CCTV9 [1080P],http://20.253.1.9/PLTV/88888888/224/3221225888/10000100000000060000000001558690_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
+CCTV10 [1080P],http://20.253.1.14/PLTV/88888888/224/3221225889/10000100000000060000000001558694_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
+CCTV11 [1080P],http://192.151.159.122:82/live/cctv11.m3u8
+CCTV12 [1080P],http://192.151.159.122:82/live/cctv12.m3u8
+CCTV13 [1080P],http://173.208.187.18:82/live/cctv13.m3u8
+CCTV14 [1080P],http://107.150.52.50:82/live/cctv14.m3u8
+CCTV15 [1080P],http://69.197.146.138:82/live/cctv15.m3u8
+CCTV16 [1080P],http://69.197.146.138:82/live/cctv16.m3u8
+CCTV17 [1080P],http://69.197.146.138:82/live/cctv17.m3u8
+
+央视1,#genre#
+CCTV1,http://ms.fxim.net:808/hls/1/index.m3u8
+CCTV2,http://ms.fxim.net:808/hls/2/index.m3u8
+CCTV3,http://ms.fxim.net:808/hls/3/index.m3u8
+CCTV4,http://ms.fxim.net:808/hls/4/index.m3u8
+CCTV5,http://ms.fxim.net:808/hls/5/index.m3u8
+CCTV6,http://ms.fxim.net:808/hls/6/index.m3u8
+CCTV7,http://ms.fxim.net:808/hls/7/index.m3u8
+CCTV8,http://ms.fxim.net:808/hls/8/index.m3u8
+CCTV9,http://ms.fxim.net:808/hls/9/index.m3u8
+CCTV10,http://ms.fxim.net:808/hls/10/index.m3u8
+CCTV11,http://ms.fxim.net:808/hls/11/index.m3u8
+CCTV12,http://ms.fxim.net:808/hls/12/index.m3u8
+CCTV13,http://ms.fxim.net:808/hls/13/index.m3u8
+CCTV14,http://ms.fxim.net:808/hls/14/index.m3u8
+CCTV15,http://ms.fxim.net:808/hls/15/index.m3u8
+CCTV16,http://ms.fxim.net:808/hls/16/index.m3u8
+CCTV17,http://ms.fxim.net:808/hls/17/index.m3u8
+卫视,#genre#
+浙江卫视,http://ms.fxim.net:808/hls/18/index.m3u8
+安徽卫视,http://ms.fxim.net:808/hls/24/index.m3u8
+江苏卫视,http://ms.fxim.net:808/hls/25/index.m3u8
+北京卫视,http://ms.fxim.net:808/hls/26/index.m3u8
+陕西卫视,http://ms.fxim.net:808/hls/27/index.m3u8
+深圳卫视,http://ms.fxim.net:808/hls/28/index.m3u8
+重庆卫视,http://ms.fxim.net:808/hls/29/index.m3u8
+东方卫视,http://ms.fxim.net:808/hls/30/index.m3u8
+湖南卫视,http://ms.fxim.net:808/hls/31/index.m3u8
+贵州卫视,http://ms.fxim.net:808/hls/32/index.m3u8
+四川卫视,http://ms.fxim.net:808/hls/33/index.m3u8
+广东卫视,http://ms.fxim.net:808/hls/34/index.m3u8
+
+浙江,#genre#
+钱江,http://ms.fxim.net:808/hls/19/index.m3u8
+浙江经济生活,http://ms.fxim.net:808/hls/20/index.m3u8
+浙江新闻,http://ms.fxim.net:808/hls/21/index.m3u8
+浙江民生,http://ms.fxim.net:808/hls/22/index.m3u8
+浙江少儿,http://ms.fxim.net:808/hls/23/index.m3u8
+
+天浪经典,#genre#天浪经典
+凤凰中文 [1080P] [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+爱地球频道 [1080P] [1080P],https://stream1.freetv.fun/9b6ac39cf69d7a8710b6ee03009781695b898afb49cb5f98ecea39697016c2f7.m3u8
+翡翠剧集台 [1080P] [1080P],https://6.cdn.loc.cc/163189.php?id=tvbd
+翡翠台-CH1 [1080P] [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台-CH2 [1080P] [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台-CH3 [1080P] [1080P],http://hls.168.us.kg/u/81/master.m3u8
+HOY76 频道 [1080P] [1080P],http://hls.168.us.kg/u/76/master.m3u8
+香港亚洲卫视 [1080P] [1080P],https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.m3u8
+邵氏动作 HD [1080P] [1080P],https://stream1.freetv.fun/74ff62421aeda7787c01ed5968f3e6176a418bf608351ac8faf5c3d501c70eab.m3u8
+澳门资讯 [1080P] [1080P],http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳门澳视 [1080P] [1080P],http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳门综艺 [1080P] [1080P],http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+NOW 新闻台 [1080P] [1080P],http://cdn.163189.xyz/163189/now
+NOW 财经台 [1080P] [1080P],http://hls.168.us.kg/u/333/master.m3u8
+NOW 直播台 [1080P] [1080P],http://hls.168.us.kg/u/331/master.m3u8
+TVB-翡翠频道 [1080P] [1080P],http://mytv.cdn.loc.cc/o12.php?id=fct
+环球电视台 [1080P] [1080P],http://utv1.hqtvzb.com:9999/hls/world.m3u8
+国际空间站 [1080P] [1080P],https://v.cdnlz12.com/20230913/10341_d0be8370/index.m3u8
+now新闻 [1080P] [1080P],http://hls.168.us.kg/u/332/master.m3u8
+ViuTV-香港 [1080P] [1080P],http://hls.168.us.kg/u/99/master.m3u8
+Viu6TV-香港 [1080P] [1080P],http://hls.168.us.kg/u/96/master.m3u8
+翡翠台 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+明珠台 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+VIUTV [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+HOY TV [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+重温经典 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+广东珠江 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+RTHK31 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+Astro AOD [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=aod
+NOW英超1台 [1080P],http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+NOW新闻台 [1080P],https://cdn.163189.xyz/163189/now
+明珠台(字幕) [1080P],https://mytv.cdn.loc.cc/o12.php?id=mzt
+TVB1 [1080P],https://6.cdn.loc.cc/163189.php?id=tvb1
+翡翠剧集台 [1080P],https://6.cdn.loc.cc/163189.php?id=tvbd
+邵氏武侠 [1080P],http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+CCTV8k [1080P],http://198.204.240.250:82/live/cctv8k.m3u8
+龙华日韩 [1080P],http://cdn8.163189.xyz/163189/lhrh
+
+
+超清频道,#genre#超清频道
+浙江卫视4K [4K] [4K],https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
+
+卫视系列,#genre#卫视系列
+河南卫视 [1080P] [1080P],http://tvtj1.jxwltx.com:8003/hnws.m3u8
+浙江卫视 [1080P] [1080P],https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+青海卫视 [1080P] [1080P],http://sh.lnott.top:880/dx53.m3u8
+青田电视 [1080P] [1080P],http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+
+Espn体育,#genre#Espn体育
+ESPN-1 [1080P] [1080P],http://46.151.196.223:14432/
+
+体育频道,#genre#体育频道
+NOW SPORTS PRIME [1080P] [1080P],http://hls.168.us.kg/u/630/master.m3u8
+VIUTV全运-1 [1080P] [1080P],http://hls.168.us.kg/u/961/master.m3u8
+VIUTV全运-2 [1080P] [1080P],http://hls.168.us.kg/u/962/master.m3u8
+风云足球 [1080P],http://173.208.187.18:82/live/fyzq.m3u8
+风云足球 [1080P],http://198.204.229.234:82/live/fyzq.m3u8
+
+国外频道,#genre#国外频道
+国外频道 [1080P] [1080P],http://148.113.160.49:14206/
+CINEMAX [1080P] [1080P],http://148.113.160.49:14200/
+USA 电视 [1080P] [1080P],http://148.113.160.49:14133/
+Modo Viagem [1080P] [1080P],http://148.113.160.49:14214/
+TELE CINE FUN [1080P] [1080P],http://148.113.160.49:14155/
+SPACE [1080P] [1080P],http://148.113.160.49:14170/
+
+央视数字,#genre#央视数字
+CCTV 女性时尚 [1080P] [1080P],http://www.dwphic.com:9999/udp/239.69.1.86:10156
+
+台湾新闻,#genre#台湾新闻
+华视 [1080P] [1080P],http://211.72.174.95:8114/0.ts
+公视 [1080P] [1080P],http://211.72.174.95:8116/0.ts
+民视 [1080P] [1080P],http://211.72.174.95:8115/0.ts
+
+
+
+
+央视备用,#genre#央视备用
+CCTV-03 [1080P] [1080P],http://www.chutouge.top:34022/rtp/239.3.1.172:8001
+
