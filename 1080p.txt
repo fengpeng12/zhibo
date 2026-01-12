@@ -369,10 +369,7 @@ CCTV6电影 [1080P],https://iptv.catvod.com/live.php?id=CCTV-6
 CHC家庭电影 [1080P],http://27.41.245.32:801/hls/905/index.m3u8
 PopC电影 [1080P],http://bxtv.3a.ink/api.php?id=popc
 PopC电影 [1080P],http://rihou.cc:555/tv/[Bx]pₒₚc电影
-CATCHPLAY电影 [1080P],https://live.catvod.com/live.php?id=catchplay_twn
-AMC电影台 [1080P],https://live.catvod.com/live.php?id=starmoviesgold_twn
-凤凰电影 [1080P],http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
-美亚电影台HD [1080P],http://iptv.4666888.xyz/iptv2A.php?id=30
+
 美亚电影 [1080P],http://bxtv.3a.ink/api.php?id=meiya
 华数电影 [1080P],http://hmfs.f3322.net:3388/hls/40/index.m3u8
 靖天電影台 [1080P],http://iptv.4666888.xyz/iptv2A.php?id=56
@@ -423,4 +420,6 @@ CCTV 女性时尚 [1080P] [1080P],http://www.dwphic.com:9999/udp/239.69.1.86:101
 
 央视备用,#genre#央视备用
 CCTV-03 [1080P] [1080P],http://www.chutouge.top:34022/rtp/239.3.1.172:8001
+
+
 
