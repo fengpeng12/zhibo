@@ -156,7 +156,6 @@ CCTV17 [1080P],http://69.197.146.138:82/live/cctv17.m3u8
 海南卫视HD [1080P],http://20.253.1.15/PLTV/88888888/224/3221225821/10000100000000060000000001128688_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 海南卫视HD [1080P],http://20.253.1.17/PLTV/88888888/224/3221225821/10000100000000060000000001128688_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 甘肃卫视HD [1080P],http://20.253.1.37/PLTV/88888888/224/3221225928/10000100000000060000000002015038_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
-
 央视1,#genre#
 CCTV1,http://ms.fxim.net:808/hls/1/index.m3u8
 CCTV2,http://ms.fxim.net:808/hls/2/index.m3u8
@@ -188,27 +187,26 @@ CCTV17,http://ms.fxim.net:808/hls/17/index.m3u8
 贵州卫视,http://ms.fxim.net:808/hls/32/index.m3u8
 四川卫视,http://ms.fxim.net:808/hls/33/index.m3u8
 广东卫视,http://ms.fxim.net:808/hls/34/index.m3u8
-
 浙江,#genre#
 钱江,http://ms.fxim.net:808/hls/19/index.m3u8
 浙江经济生活,http://ms.fxim.net:808/hls/20/index.m3u8
 浙江新闻,http://ms.fxim.net:808/hls/21/index.m3u8
 浙江民生,http://ms.fxim.net:808/hls/22/index.m3u8
 浙江少儿,http://ms.fxim.net:808/hls/23/index.m3u8
-
-
 广东,#genre#
+广东珠江1080p [1080P],http://r.jdshipin.com/sE5vO
 广东珠江1080p [1080P],https://live.catvod.com/iptv.php?id=gdzj01
+广东珠江1080p [1080P],http://iptv.4666888.xyz/iptv2A.php?id=19
+广东珠江1080p [1080P],http://rihou.cc:555/tv/[AtI]广东珠江
 广东体育1080p [1080P],http://27.41.245.32:801/hls/204/index.m3u8
-广东体育1080p [1080P],http://iptv.4666888.xyz/iptv2A.php?id=20
+广东体育1080p [1080P],https://live.catvod.com/iptv.php?id=gdty01
+广东体育1080p [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育1080p [1080P],http://rihou.cc:555/tv/[AtI]广东体育
 广东新闻1080p [1080P],http://rihou.cc:555/tv/[AtI]广东新闻
 广东影视1080p [1080P],http://rihou.cc:555/tv/[AtI]广东影视
 广东民生1080p [1080P],http://rihou.cc:555/tv/[AtI]广东民生
 广东经济科教1080p [1080P],http://rihou.cc:555/tv/[AtI]广东经济
 广东大湾区卫视1080p [1080P],http://rihou.cc:555/tv/[AtI]广东湾区
-
-
 🇭🇰港🇲🇴澳🇹🇼台专区,#genre#🇭🇰港🇲🇴澳🇹🇼台专区
 凤凰中文 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 爱地球频道 [1080P],https://stream1.freetv.fun/9b6ac39cf69d7a8710b6ee03009781695b898afb49cb5f98ecea39697016c2f7.m3u8
@@ -419,9 +417,12 @@ HOY78 1080p [1080P],http://iptv.4666888.xyz/iptv2A.php?id=31
 凤凰中文HD 1080p [1080P],https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文HD 1080p [1080P],http://rihou.cc:555/tv/[PL]凤凰中文
 凤凰中文HD 1080p [1080P],http://r.jdshipin.com/cCCzW
-
-
-
+台视新闻 [1080P],http://222.128.55.152:9080/live/ts.m3u8
+中天新闻 [1080P],http://222.128.55.152:9080/live/fc.m3u8
+民视新闻台 [1080P],http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+华视 [1080P],http://211.72.174.95:8114/0.ts
+公视 [1080P],http://211.72.174.95:8116/0.ts
+民视 [1080P],http://211.72.174.95:8115/0.ts
 电影频道,#genre#电影频道
 Now星影台(粤)1080p [1080P],http://74.91.26.218:82/live/nowxy.m3u8
 Now星影台(粤)1080p [1080P],https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
@@ -441,87 +442,24 @@ AMC电影台 [1080P],https://live.catvod.com/live.php?id=starmoviesgold_twn
 龙华电影 [1080P],https://cdn8.163189.xyz/163189/lhdy
 龙华洋片 [1080P],https://live.catvod.com/iptv.php?id=lhyp01
 緯來電影HD [1080P],https://live.catvod.com/live.php?id=videolandmovie
-TVB1 1080p [1080P],http://iptv.4666888.xyz/iptv2A.php?id=25
-TVB plus 1080p [1080P],http://bxtv.3a.ink/api.php?id=tvbp
-TVB无线千禧1080p [1080P],http://bxtv.3a.ink/api.php?id=qxjd
-TVB无线千禧1080p [1080P],http://rihou.cc:555/tv/[Bx]无线千禧
-RHK31 [1080P],https://live.catvod.com/iptv.php?id=rthk31
-RHK31 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RHK31 [1080P],http://rihou.cc:555/tv/[PL]RTHK-31
-RHK32 [1080P],https://live.catvod.com/iptv.php?id=rthk32
-RHK32 [1080P],http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-RHK32 [1080P],http://rihou.cc:555/tv/[PL]RTHK-32
-RHK32 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-HOY76 [1080P],http://hls.168.us.kg/u/76/master.m3u8
-HOY77 [1080P],http://hls.168.us.kg/u/77/master.m3u8
-HOY77 [1080P],http://iptv.4666888.xyz/iptv2A.php?id=35
-HOY78 [1080P],http://hls.168.us.kg/u/78/master.m3u8
-HOY78 [1080P],http://iptv.4666888.xyz/iptv2A.php?id=31
-无线新闻台 [1080P],http://74.91.26.218:82/live/inews.m3u8
-无线新闻台 [1080P],https://cdn6.101.qzz.io/163189/wxxw
-无线新闻台 [1080P],http://bxtv.3a.ink/api.php?id=wxxw
-无线新闻台 [1080P],http://hls.168.us.kg/u/83/master.m3u8
-无线新闻台 [1080P],http://rihou.cc:555/tv/[Mt]无线新闻
-凤凰中文HD [1080P],https://cdn6.101.qzz.io/163189/fhzw
-凤凰中文HD [1080P],http://rihou.cc:555/tv/[Bx]凤凰中文
-凤凰中文HD [1080P],http://rihou.cc:555/tv/[PL]凤凰中文
-凤凰中文HD [1080P],http://r.jdshipin.com/cCCzW
-凤凰中文HD [1080P],http://bxtv.3a.ink/api.php?id=fhzw
-凤凰资讯HD [1080P],http://rihou.cc:555/tv/[Bx]凤凰资讯
-凤凰香港台 [1080P],http://rihou.cc:555/tv/[Bx]凤凰香港
-Now新闻台 [1080P],http://hls.168.us.kg/u/332/master.m3u8
-Now新闻台 [1080P],http://rihou.cc:555/tv/[Mt]Now新闻
-Now财经 [1080P],http://hls.168.us.kg/u/333/master.m3u8
-Now财经 [1080P],http://rihou.cc:555/tv/[Mt]Now财经
-Now直播 [1080P],http://hls.168.us.kg/u/331/master.m3u8
-Now直播 [1080P],http://rihou.cc:555/tv/[Mt]Now直播
-Now体育 [1080P],http://rihou.cc:555/tv/[Mt]Now体育
-中天新聞 [1080P],http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
-CTS華視新聞资讯 [1080P],http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 PopC电影 [1080P],http://bxtv.3a.ink/api.php?id=popc
 PopC电影 [1080P],http://rihou.cc:555/tv/[Bx]pₒₚc电影
 美亚电影 [1080P],http://bxtv.3a.ink/api.php?id=meiya
-
-电影频道,#genre#电影频道
-Now星影台(粤)1080p [1080P],http://74.91.26.218:82/live/nowxy.m3u8
-Now星影台(粤)1080p [1080P],https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
-CCTV6电影 [1080P],http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
-CCTV6电影 [1080P],http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
-CCTV6电影 [1080P],http://kouki.pro:8888/udp/239.49.8.76:8000
-CCTV6电影 [1080P],https://iptv.catvod.com/live.php?id=CCTV-6
-CHC家庭电影 [1080P],http://27.41.245.32:801/hls/905/index.m3u8
-PopC电影 [1080P],http://bxtv.3a.ink/api.php?id=popc
-PopC电影 [1080P],http://rihou.cc:555/tv/[Bx]pₒₚc电影
-
-美亚电影 [1080P],http://bxtv.3a.ink/api.php?id=meiya
-华数电影 [1080P],http://hmfs.f3322.net:3388/hls/40/index.m3u8
-靖天電影台 [1080P],http://iptv.4666888.xyz/iptv2A.php?id=56
-龙华电影 [1080P],https://live.catvod.com/iptv.php?id=lhdy01
-龙华电影 [1080P],http://iptv.4666888.xyz/iptv2A.php?id=45
-龙华电影 [1080P],https://cdn8.163189.xyz/163189/lhdy
-龙华洋片 [1080P],https://live.catvod.com/iptv.php?id=lhyp01
-緯來電影HD [1080P],https://live.catvod.com/live.php?id=videolandmovie
-
-
 超清频道,#genre#超清频道
 浙江卫视4K [4K] [4K],https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
-
 卫视系列,#genre#卫视系列
 河南卫视 [1080P],http://tvtj1.jxwltx.com:8003/hnws.m3u8
 浙江卫视 [1080P],https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视 [1080P],http://sh.lnott.top:880/dx53.m3u8
 青田电视 [1080P],http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
-
 Espn体育,#genre#Espn体育
 ESPN-1 [1080P],http://46.151.196.223:14432/
-
 体育频道,#genre#体育频道
 NOW SPORTS PRIME [1080P],http://hls.168.us.kg/u/630/master.m3u8
 VIUTV全运-1 [1080P],http://hls.168.us.kg/u/961/master.m3u8
 VIUTV全运-2 [1080P],http://hls.168.us.kg/u/962/master.m3u8
 风云足球 [1080P],http://173.208.187.18:82/live/fyzq.m3u8
 风云足球 [1080P],http://198.204.229.234:82/live/fyzq.m3u8
-
 国外频道,#genre#国外频道
 国外频道 [1080P],http://148.113.160.49:14206/
 CINEMAX [1080P],http://148.113.160.49:14200/
@@ -529,20 +467,8 @@ USA 电视 [1080P],http://148.113.160.49:14133/
 Modo Viagem [1080P],http://148.113.160.49:14214/
 TELE CINE FUN [1080P],http://148.113.160.49:14155/
 SPACE [1080P],http://148.113.160.49:14170/
-
 央视数字,#genre#央视数字
 CCTV 女性时尚 [1080P],http://www.dwphic.com:9999/udp/239.69.1.86:10156
 
-台湾新闻,#genre#台湾新闻
-华视 [1080P],http://211.72.174.95:8114/0.ts
-公视 [1080P],http://211.72.174.95:8116/0.ts
-民视 [1080P],http://211.72.174.95:8115/0.ts
-
-
-
-
 央视备用,#genre#央视备用
 CCTV-03 [1080P],http://www.chutouge.top:34022/rtp/239.3.1.172:8001
-
-
-
