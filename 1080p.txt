@@ -208,7 +208,8 @@ CCTV17,http://ms.fxim.net:808/hls/17/index.m3u8
 广东经济科教1080p [1080P],http://rihou.cc:555/tv/[AtI]广东经济
 广东大湾区卫视1080p [1080P],http://rihou.cc:555/tv/[AtI]广东湾区
 
-港奥台频道,#genre#港奥台频道
+
+🇭🇰港🇲🇴澳🇹🇼台专区,#genre#🇭🇰港🇲🇴澳🇹🇼台专区
 凤凰中文 [1080P] [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 爱地球频道 [1080P] [1080P],https://stream1.freetv.fun/9b6ac39cf69d7a8710b6ee03009781695b898afb49cb5f98ecea39697016c2f7.m3u8
 翡翠剧集台 [1080P] [1080P],https://6.cdn.loc.cc/163189.php?id=tvbd
@@ -253,6 +254,38 @@ CCTV8k [1080P],http://198.204.240.250:82/live/cctv8k.m3u8
 
 
 
+凤凰卫视频道 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+无线翡翠频道 [1080P],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+无线华丽频道 [1080P],http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+重温经典频道 [1080P],http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+Astr剧集频道 [1080P],http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+香港_C+_频道 [1080P],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+澳视澳门频道 [1080P],http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+澳视葡语频道 [1080P],http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+澳门资讯频道 [1080P],http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
+澳门mac频道 [1080P],http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+凤凰电影台 [1080P],http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+TVB翡翠台 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fct
+TVB翡翠台 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+华丽翡翠台 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=huali
+未来频道 [1080P],http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+蕃薯 [1080P],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+东森超视 [1080P],http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+台视新闻 [1080P],http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻 [1080P],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻 [1080P],http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+台视新闻 [1080P],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+台视新闻 [1080P],http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+番薯音乐 [1080P],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+CNA [1080P],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+HISTORY [1080P],http://37.27.111.214:8080/live/27/hls.m3u8
+FOCUS [1080P],http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+深圳卫视 [1080P],http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+海峡卫视 [1080P],http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+中旺电视 [1080P],http://38.64.72.148:80/hls/modn/list/4010/playlist.m3u8
+民视新闻 [1080P],http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
+台视新闻 [1080P],http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+台视新闻台 [1080P],https://live.wcetv.com/hls/master-ttvnews.m3u8
 
 翡翠台1080p [1080P],http://74.91.26.218:82/live/jade.m3u8
 翡翠台1080p [1080P],https://o11.163189.xyz/stream/tvb/fct/
