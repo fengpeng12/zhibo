@@ -194,19 +194,19 @@ CCTV17,http://ms.fxim.net:808/hls/17/index.m3u8
 浙江民生,http://ms.fxim.net:808/hls/22/index.m3u8
 浙江少儿,http://ms.fxim.net:808/hls/23/index.m3u8
 广东,#genre#
-广东珠江1080p [1080P],http://r.jdshipin.com/sE5vO
-广东珠江1080p [1080P],https://live.catvod.com/iptv.php?id=gdzj01
-广东珠江1080p [1080P],http://iptv.4666888.xyz/iptv2A.php?id=19
-广东珠江1080p [1080P],http://rihou.cc:555/tv/[AtI]广东珠江
-广东体育1080p [1080P],http://27.41.245.32:801/hls/204/index.m3u8
-广东体育1080p [1080P],https://live.catvod.com/iptv.php?id=gdty01
-广东体育1080p [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-广东体育1080p [1080P],http://rihou.cc:555/tv/[AtI]广东体育
-广东新闻1080p [1080P],http://rihou.cc:555/tv/[AtI]广东新闻
-广东影视1080p [1080P],http://rihou.cc:555/tv/[AtI]广东影视
-广东民生1080p [1080P],http://rihou.cc:555/tv/[AtI]广东民生
-广东经济科教1080p [1080P],http://rihou.cc:555/tv/[AtI]广东经济
-广东大湾区卫视1080p [1080P],http://rihou.cc:555/tv/[AtI]广东湾区
+广东珠江[1080P],http://r.jdshipin.com/sE5vO
+广东珠江[1080P],https://live.catvod.com/iptv.php?id=gdzj01
+广东珠江[1080P],http://iptv.4666888.xyz/iptv2A.php?id=19
+广东珠江[1080P],http://rihou.cc:555/tv/[AtI]广东珠江
+广东体育[1080P],http://27.41.245.32:801/hls/204/index.m3u8
+广东体育[1080P],https://live.catvod.com/iptv.php?id=gdty01
+广东体育[1080P],http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育[1080P],http://rihou.cc:555/tv/[AtI]广东体育
+广东新闻[1080P],http://rihou.cc:555/tv/[AtI]广东新闻
+广东影视[1080P],http://rihou.cc:555/tv/[AtI]广东影视
+广东民生[1080P],http://rihou.cc:555/tv/[AtI]广东民生
+广东经济科教[1080P],http://rihou.cc:555/tv/[AtI]广东经济
+广东大湾区卫视[1080P],http://rihou.cc:555/tv/[AtI]广东湾区
 🇭🇰港🇲🇴澳🇹🇼台专区,#genre#🇭🇰港🇲🇴澳🇹🇼台专区
 凤凰中文 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 爱地球频道 [1080P],https://stream1.freetv.fun/9b6ac39cf69d7a8710b6ee03009781695b898afb49cb5f98ecea39697016c2f7.m3u8
@@ -297,29 +297,29 @@ FOCUS [1080P],http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 民视新闻 [1080P],http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 台视新闻 [1080P],http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 台视新闻台 [1080P],https://live.wcetv.com/hls/master-ttvnews.m3u8
-翡翠台1080p [1080P],http://74.91.26.218:82/live/jade.m3u8
-翡翠台1080p [1080P],https://o11.163189.xyz/stream/tvb/fct/
-翡翠台1080p [1080P],http://rihou.cc:555/tv/[Pd]无线翡翠
-翡翠台1080p [1080P],http://r.jdshipin.com/62WM7
-翡翠台1080p [1080P],http://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台1080p [1080P],http://rihou.cc:555/tv/[Pd]无线明珠
-明珠台1080p [1080P],https://o11.163189.xyz/stream/tvb/mzt/
-明珠台1080p [1080P],http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-明珠台1080p [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB1 1080p [1080P],http://iptv.4666888.xyz/iptv2A.php?id=25
-TVB1 1080p [1080P],https://6.cdn.loc.cc/163189.php?id=tvb1
-TVBJ1 1080p [1080P],http://iptv.4666888.xyz/iptv2A.php?id=26
-TVBJ1 1080p [1080P],https://6.cdn.loc.cc/163189.php?id=j1
-TVB plus 1080p [1080P],http://74.91.26.218:82/live/j2.m3u8
-TVB plus 1080p [1080P],https://o11.163189.xyz/stream/tvb/tvbp/
-TVB plus 1080p [1080P],http://bxtv.3a.ink/api.php?id=tvbp
-TVB plus 1080p [1080P],http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-TVB plus 1080p [1080P],https://cdn6.163189.xyz/163189/tvbp
-TVB无线千禧1080p [1080P],http://bxtv.3a.ink/api.php?id=qxjd
-TVB无线千禧1080p [1080P],http://rihou.cc:555/tv/[Bx]无线千禧
-TVB千禧经典1080p [1080P],https://o11.163189.xyz/stream/live/tvbc/
-ViuTV 1080p [1080P],https://cdn.163189.xyz/163189/viu
-ViuTV6 1080p [1080P],https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
+翡翠台[1080P],http://74.91.26.218:82/live/jade.m3u8
+翡翠台[1080P],https://o11.163189.xyz/stream/tvb/fct/
+翡翠台[1080P],http://rihou.cc:555/tv/[Pd]无线翡翠
+翡翠台[1080P],http://r.jdshipin.com/62WM7
+翡翠台[1080P],http://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台[1080P],http://rihou.cc:555/tv/[Pd]无线明珠
+明珠台[1080P],https://o11.163189.xyz/stream/tvb/mzt/
+明珠台[1080P],http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+明珠台[1080P],http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+TVB1 [1080P],http://iptv.4666888.xyz/iptv2A.php?id=25
+TVB1 [1080P],https://6.cdn.loc.cc/163189.php?id=tvb1
+TVBJ1 [1080P],http://iptv.4666888.xyz/iptv2A.php?id=26
+TVBJ1 [1080P],https://6.cdn.loc.cc/163189.php?id=j1
+TVB plus [1080P],http://74.91.26.218:82/live/j2.m3u8
+TVB plus [1080P],https://o11.163189.xyz/stream/tvb/tvbp/
+TVB plus [1080P],http://bxtv.3a.ink/api.php?id=tvbp
+TVB plus [1080P],http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+TVB plus [1080P],https://cdn6.163189.xyz/163189/tvbp
+TVB无线千禧[1080P],http://bxtv.3a.ink/api.php?id=qxjd
+TVB无线千禧[1080P],http://rihou.cc:555/tv/[Bx]无线千禧
+TVB千禧经典[1080P],https://o11.163189.xyz/stream/live/tvbc/
+ViuTV [1080P],https://cdn.163189.xyz/163189/viu
+ViuTV6 [1080P],https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
 RHK31 [1080P],https://live.catvod.com/iptv.php?id=rthk31
 RHK31 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RHK31 [1080P],http://rihou.cc:555/tv/[PL]RTHK-31
@@ -400,23 +400,23 @@ CH8综合 [1080P],http://rihou.cc:555/tv/[Pd]CH8综合
 澳视澳门 [1080P],https://cdn6.101.qzz.io/163189/asam
 澳视澳门 [1080P],http://iptv.4666888.xyz/iptv2A.php?id=41
 澳视Macau [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=as
-RHK31 1080p [1080P],https://live.catvod.com/iptv.php?id=rthk31
-RHK31 1080p [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RHK31 1080p [1080P],http://rihou.cc:555/tv/[PL]RTHK-31
-RHK31 1080p [1080P],http://cdn.163189.xyz/163189/rthk31
-RHK32 1080p [1080P],https://live.catvod.com/iptv.php?id=rthk32
-RHK32 1080p [1080P],http://cdn.163189.xyz/163189/rthk32
-RHK32 1080p [1080P],http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-RHK32 1080p [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-HOY77 1080p [1080P],http://hls.168.us.kg/u/77/master.m3u8
-HOY77 1080p [1080P],http://iptv.4666888.xyz/iptv2A.php?id=35
-HOY77 1080p [1080P],http://cdn.163189.xyz/163189/hoy
-HOY78 1080p [1080P],http://iptv.4666888.xyz/iptv2A.php?id=31
-无线新闻台1080p [1080P],http://74.91.26.218:82/live/inews.m3u8
-无线新闻台1080p [1080P],https://cdn6.101.qzz.io/163189/wxxw
-凤凰中文HD 1080p [1080P],https://cdn6.101.qzz.io/163189/fhzw
-凤凰中文HD 1080p [1080P],http://rihou.cc:555/tv/[PL]凤凰中文
-凤凰中文HD 1080p [1080P],http://r.jdshipin.com/cCCzW
+RHK31 [1080P],https://live.catvod.com/iptv.php?id=rthk31
+RHK31 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RHK31 [1080P],http://rihou.cc:555/tv/[PL]RTHK-31
+RHK31 [1080P],http://cdn.163189.xyz/163189/rthk31
+RHK32 [1080P],https://live.catvod.com/iptv.php?id=rthk32
+RHK32 [1080P],http://cdn.163189.xyz/163189/rthk32
+RHK32 [1080P],http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RHK32 [1080P],http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+HOY77 [1080P],http://hls.168.us.kg/u/77/master.m3u8
+HOY77 [1080P],http://iptv.4666888.xyz/iptv2A.php?id=35
+HOY77 [1080P],http://cdn.163189.xyz/163189/hoy
+HOY78 [1080P],http://iptv.4666888.xyz/iptv2A.php?id=31
+无线新闻台[1080P],http://74.91.26.218:82/live/inews.m3u8
+无线新闻台[1080P],https://cdn6.101.qzz.io/163189/wxxw
+凤凰中文HD [1080P],https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文HD [1080P],http://rihou.cc:555/tv/[PL]凤凰中文
+凤凰中文HD [1080P],http://r.jdshipin.com/cCCzW
 台视新闻 [1080P],http://222.128.55.152:9080/live/ts.m3u8
 中天新闻 [1080P],http://222.128.55.152:9080/live/fc.m3u8
 民视新闻台 [1080P],http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -424,8 +424,8 @@ HOY78 1080p [1080P],http://iptv.4666888.xyz/iptv2A.php?id=31
 公视 [1080P],http://211.72.174.95:8116/0.ts
 民视 [1080P],http://211.72.174.95:8115/0.ts
 电影频道,#genre#电影频道
-Now星影台(粤)1080p [1080P],http://74.91.26.218:82/live/nowxy.m3u8
-Now星影台(粤)1080p [1080P],https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
+Now星影台(粤)[1080P],http://74.91.26.218:82/live/nowxy.m3u8
+Now星影台(粤)[1080P],https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
 CCTV6电影 [1080P],http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
 CCTV6电影 [1080P],http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV6电影 [1080P],http://kouki.pro:8888/udp/239.49.8.76:8000
