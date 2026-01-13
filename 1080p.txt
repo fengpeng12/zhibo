@@ -175,6 +175,35 @@ CCTV15,http://ms.fxim.net:808/hls/15/index.m3u8
 CCTV16,http://ms.fxim.net:808/hls/16/index.m3u8
 CCTV17,http://ms.fxim.net:808/hls/17/index.m3u8
 卫视,#genre#
+北京卫视,http://23.237.228.134/live3/beijing.m3u8
+东方卫视,http://23.237.228.134/live3/dongfang.m3u8
+江苏卫视,http://23.237.228.134/live3/jiangsu.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
+东南卫视,http://23.237.228.134/live6/dongnan.m3u8
+广东卫视,http://23.237.228.134/live6/guangdong.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+湖北卫视,http://23.237.228.134/live6/hubei.m3u8
+四川卫视,http://23.237.228.134/live6/sichuan.m3u8
+河南卫视,http://23.237.228.134/live6/henan.m3u8
+海南卫视,http://23.237.228.134/live6/hainan.m3u8
+黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
+重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
+贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
+山东卫视,http://23.237.228.134/live8/shandong.m3u8
+内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
+云南卫视,http://23.237.228.134/live8/yunnan.m3u8
+山西卫视,http://23.237.228.134/live8/shanxi.m3u8
+青海卫视,http://23.237.228.134/live8/qinghai.m3u8
+吉林卫视,http://23.237.228.134/live8/jilin.m3u8
+辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
+天津卫视,http://23.237.228.134/live8/tianjing.m3u8
+江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
+安徽卫视,http://23.237.228.134/live8/anhui.m3u8
+陕西卫视,http://23.237.228.134/live8/shanxiws.m3u8
+河北卫视,http://23.237.228.134/live8/hebei.m3u8
+甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
 浙江卫视,http://ms.fxim.net:808/hls/18/index.m3u8
 安徽卫视,http://ms.fxim.net:808/hls/24/index.m3u8
 江苏卫视,http://ms.fxim.net:808/hls/25/index.m3u8
@@ -478,7 +507,7 @@ CCTV 女性时尚 [1080P],http://www.dwphic.com:9999/udp/239.69.1.86:10156
 央视备用,#genre#央视备用
 CCTV-03 [1080P],http://www.chutouge.top:34022/rtp/239.3.1.172:8001
 
-自用抓包,#genre#自用抓包
+随便找的频道,#genre#随便找的频道
 韩国MV [4K],http://www.douzhicloud.site:35455/douyu/40471
 SOOP韩剧[1080P],https://live.iill.top/soop/ghth6009
 SOOP(韩)小姐姐1 [1080P],https://live.iill.top/soop/zesting
