@@ -483,8 +483,20 @@ AMC电影台 [1080P],https://live.catvod.com/live.php?id=starmoviesgold_twn
 PopC电影 [1080P],http://bxtv.3a.ink/api.php?id=popc
 PopC电影 [1080P],http://rihou.cc:555/tv/[Bx]pₒₚc电影
 美亚电影 [1080P],http://bxtv.3a.ink/api.php?id=meiya
-超清频道,#genre#超清频道
+
+4K专区,#genre#4K专区
 浙江卫视4K [4K] [4K],https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
+北京卫视4K [4K],http://139.ye23.vip/dl/btv2502.php?id=bjws4
+东方卫视4K [1080P],http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+湖南卫视4K [4K],http://101.35.240.114:88/live.php?id=湖南卫视4K
+浙江卫视4K [4K],https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
+深圳卫视4K [4K],http://nn.7x9d.cn/深圳最新.php?id=szws4k
+河北4K [4K],https://event.pull.hebtv.com:443/live/live101.m3u8
+CCTV4K真4K [4K],http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u
+韩国MV [4K],http://www.douzhicloud.site:35455/douyu/40471
+
+
+
 卫视系列,#genre#卫视系列
 河南卫视 [1080P],http://tvtj1.jxwltx.com:8003/hnws.m3u8
 浙江卫视 [1080P],https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -511,7 +523,7 @@ CCTV 女性时尚 [1080P],http://www.dwphic.com:9999/udp/239.69.1.86:10156
 CCTV-03 [1080P],http://www.chutouge.top:34022/rtp/239.3.1.172:8001
 
 随便找的频道,#genre#随便找的频道
-韩国MV [4K],http://www.douzhicloud.site:35455/douyu/40471
+
 SOOP韩剧[1080P],https://live.iill.top/soop/ghth6009
 SOOP(韩)小姐姐1 [1080P],https://live.iill.top/soop/zesting
 SOOPWWE [1080P],https://live.iill.top/soop/wwe1
