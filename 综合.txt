@@ -277,7 +277,7 @@
 {"name":"yiyifafa","type":0,"url":"https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt","playerType":2,"timeout":10},
 {"name":"乘风APP配置源","type":0,"url":"http:\/\/ybtvsg.yuanbaotv.com\/api\/zip\/txtzztv\/202511061613\/kds_all_shlt_a160216bf6b3c6054c4a71d40132931c.txt","playerType":2,"timeout":10},
 {"name":"节目1","type":0,"url":"https://pan.baidu.re/down.php/1411aa326faabdeedad0b73fe9380a1a.txt","playerType":2,"timeout":10},
-{"name":"港澳外","type":0,"url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u","playerType":2,"timeout":10},
+{"name":"学外语频道18+","type":0,"url":"https://raw.githubusercontent.com/fengpeng12/zhibo/refs/heads/main/18%2B1080p.txt","playerType":2,"timeout":10},
 {"name":"8000个国外电视台","type":0,"url":"https://iptv-org.github.io/iptv/index.m3u","playerType":2,"timeout":10},
 {"name":"央视各种直播源","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u","playerType":2,"timeout":10},
 {"name":"自用超清频道","type":0,"url":"https://raw.githubusercontent.com/fengpeng12/zhibo/refs/heads/main/1080p.m3u","playerType":2,"timeout":10},
