@@ -460,6 +460,21 @@ HOY77 [1080P],http://cdn.163189.xyz/163189/hoy
 华视 [1080P],http://211.72.174.95:8114/0.ts
 公视 [1080P],http://211.72.174.95:8116/0.ts
 民视 [1080P],http://211.72.174.95:8115/0.ts
+翡翠台[1080P],http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A1%E7%BF%A0
+凤凰中文HD [1080P],http://rihou.cc:555/tv/[Bx]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
+凤凰中文HD [1080P],http://rihou.cc:555/tv/[PL]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
+凤凰资讯HD [1080P],http://rihou.cc:555/tv/[PL]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
+凤凰香港台 [1080P],http://rihou.cc:555/tv/[PL]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
+龙华戏剧 [1080P],http://rihou.cc:555/tv/[Pd]%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7
+CHU综合 [1080P],http://rihou.cc:555/tv/[Pd]CHU%E7%BB%BC%E5%90%88
+CH5综合 [1080P],http://rihou.cc:555/tv/[Pd]CH5%E7%BB%BC%E5%90%88
+CH8综合 [1080P],http://rihou.cc:555/tv/[Pd]CH8%E7%BB%BC%E5%90%88
+八度空间 [1080P],http://rihou.cc:555/tv/[Pd]%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4
+
+
+
+
+
 电影频道,#genre#电影频道
 博然讲电影,https://cn-gddg-cu-01-02.bilivideo.com/live-bvc/646171/live_427613894_60883545/index.m3u8
 Now星影台(粤)[1080P],http://74.91.26.218:82/live/nowxy.m3u8
@@ -483,6 +498,9 @@ AMC电影台 [1080P],https://live.catvod.com/live.php?id=starmoviesgold_twn
 PopC电影 [1080P],http://bxtv.3a.ink/api.php?id=popc
 PopC电影 [1080P],http://rihou.cc:555/tv/[Bx]pₒₚc电影
 美亚电影 [1080P],http://bxtv.3a.ink/api.php?id=meiya
+
+
+
 
 4K专区,#genre#4K专区
 浙江卫视4K [4K] [4K],https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
