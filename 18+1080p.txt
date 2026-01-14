@@ -1,15 +1,186 @@
-#EXTINF:-1 group-title="私密頻道 ADULT",驚豔台
+#EXTM3U
+#EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 group-title="私密頻道 ADULT",香蕉台
+#EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 group-title="私密頻道 ADULT",松視3
+#EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",汝工作室
+http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12168/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",Japan HDV
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
 http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",花花公子
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",法國時尚
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Public Agent
+http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6246/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Playboy
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",MetArt FHD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Banana Fever
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12168/index.m3u8
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6225/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Cherry Pimps
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6185/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Club 17
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6186/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",MetArt HD
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6233/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 608
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/608
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 611
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/611
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 613
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/613
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 614
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/614
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 643
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/643
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 644
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/644
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 646
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/646
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 647
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/647
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 648
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/648
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 650
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/650
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 651
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/651
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 652
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/652
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 658
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/658
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 659
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/659
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 660
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/660
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 671
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/671
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 672
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/672
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 677
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/677
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 679
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/679
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 681
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/681
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 682
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/682
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 683
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/683
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 684
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/684
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 685
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/685
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 687
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/687
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 688
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/688
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 690
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/690
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 694
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/694
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 695
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/695
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 698
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/698
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 700
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/700
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 701
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/701
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 702
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/702
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 704
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/704
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 705
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/705
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 706
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/706
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 709
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/709
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 711
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/711
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 712
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/712
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 713
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/713
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 716
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/716
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 719
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/719
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 722
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/722
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 723
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/723
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 724
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/724
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 725
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/725
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 726
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/726
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 727
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/727
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 729
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/729
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 730
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/730
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 731
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/731
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 732
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/732
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 733
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/733
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 738
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/738
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 741
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/741
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 742
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/742
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 743
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/743
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 746
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/746
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 747
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/747
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 748
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/748
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 750
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/750
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 751
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/751
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 752
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/752
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 753
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/753
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 755
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/755
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 756
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/756
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 757
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/757
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 758
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/758
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 759
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/759
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 760
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/760
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 1
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/800
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 5
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/804
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 8
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/807
+#EXTINF:-1 group-title="私密頻道 ADULT",РУССКАЯ ЭРОТИКА 10
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/809
 #EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451451
 http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451451
 #EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451460
@@ -28,3 +199,5 @@ http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451472
 http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451473
 #EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451475
 http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451475
+#EXTINF:-1 group-title="私密頻道 ADULT",花花公子
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
