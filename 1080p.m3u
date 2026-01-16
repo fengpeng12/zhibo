@@ -16,19 +16,7 @@ CCTV14 [1080P],http://107.150.52.50:82/live/cctv14.m3u8
 CCTV15 [1080P],http://69.197.146.138:82/live/cctv15.m3u8
 CCTV16 [1080P],http://69.197.146.138:82/live/cctv16.m3u8
 CCTV17 [1080P],http://69.197.146.138:82/live/cctv17.m3u8
-央视1,#genre#央视1
-CCTV-1综合 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1767843015&token=1088f7ba76ec56cc464bde3374ce3d65
-CCTV-2财经 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1767843015&token=1c90e8073b6a67a174f23f58df9cda32
-CCTV-4中文国际 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1767843015&token=fc319447e43b42398f0ababe0a1375c6
-CCTV-7国防军事 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1767843015&token=5c2ad5f35b2addbdb5d4e525788c1bc7
-CCTV-8电视剧 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1767843015&token=48b7ec2409187ce9a1dad3a11bfbd754
-CCTV-9纪录 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1767843015&token=17ed55eb1cb59fdb8af69356de5a3589
-CCTV-10科教 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1767843015&token=ff6adaf93e2d0fac3e6ae3599d2a6a6f
-CCTV-11戏曲 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1767843015&token=5a80b7a406717accc14f3bd48d04ba19
-CCTV-12社会与法 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV12&t=1767843015&token=65dc4cb322c1c5576d3c79dcf0086eef
-CCTV-15音乐 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1767843015&token=08b5ff9e2ce21f1707393510aa1e1b73
-CCTV-16奥林匹克 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1767843015&token=c8437a013b51af583357ed50993f57cd
-CCTV-17农业农村 [1080P],https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1767843015&token=6780009436dd8196bc8c97280c8249e7
+
 央视2,#genre#央视2
 CCTV1,http://ms.fxim.net:808/hls/1/index.m3u8
 CCTV2,http://ms.fxim.net:808/hls/2/index.m3u8
