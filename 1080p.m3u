@@ -530,27 +530,19 @@ RTHK32 [1080p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 
 
 电影频道,#genre#电影频道
-博然讲电影,https://cn-gddg-cu-01-02.bilivideo.com/live-bvc/646171/live_427613894_60883545/index.m3u8
-澳门莲花1080p [1080p],https://cdn6.101.qzz.io/163189/amlh
-CCTV6电影1080p [1080p],http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
-CCTV6电影1080p [1080p],http://27.41.245.32:801/hls/6/index.m3u8
-CHC家庭电影 [1080p],http://27.41.245.32:801/hls/905/index.m3u8
-CATCHPLAY电影 [1080p],https://live.catvod.com/live.php?id=catchplay_twn
-AMC电影台 [1080p],https://live.catvod.com/live.php?id=starmoviesgold_twn
-淘电影1080p [1080p],http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
-凤凰电影 [1080p],http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
-东森电影HD [1080p],http://iptv.4666888.xyz/iptv2A.php?id=48
-东森电影HD [1080p],https://live.saileitv.com/channel/n5502f4/index.m3u8?q=1768660386565&sign=097c2fa48ab623ba6c6327404a1375c9&ts=1768660887
-东森电影HD [1080p],http://23.128.116.71:5589/live.php?id=ettvmovie&h=23.128.116.71&p=22364&token=1768656088.a085acf2e7d7a672b2c2523583227ea4b3c1f3c158a64d90de3020fc0ef508b7
-华数电影 [1080p],http://hmfs.f3322.net:3388/hls/40/index.m3u8
-靖天電影台 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=56
-龙华电影1080p [1080p],https://live.catvod.com/iptv.php?id=lhdy01
-龙华电影1080p [1080p],http://iptv.4666888.xyz/iptv2A.php?id=45
-龙华电影1080p [1080p],https://cdn8.163189.xyz/163189/lhdy
-龙华电影1080p(梯子) [1080p],http://cdn8.veryfast.filegear-sg.me/163189/lhdy
-龙华洋片 [1080p],https://live.catvod.com/iptv.php?id=lhyp01
-龙祥时代1080p [1080p],http://23.128.116.71:5589/live.php?id=lungxiangtime_twn&h=23.128.116.71&p=22364&token=1768656088.9568be950d58b8a02f43f238bdd447f3d6d89ae9a3538b950d0a6322a0ec4230
-緯來電影HD 1080p [1080p],http://23.128.116.71:5589/live.php?id=videolandmovie&h=23.128.116.71&p=22364&token=1768656088.7cfab29e31a4d92960308bc41781955067656d64c99658a37feeaa185443399a
+CCTV6电影1080p [1080p] [1080p],http://27.41.245.32:801/hls/6/index.m3u8
+CHC家庭电影 [1080p] [1080p],http://27.41.245.32:801/hls/905/index.m3u8
+淘电影1080p [1080p] [1080p],http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
+凤凰电影 [1080p] [1080p],http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
+东森电影HD [1080p] [1080p],https://live.saileitv.com/channel/n5502f4/index.m3u8?q=1768660386565&sign=097c2fa48ab623ba6c6327404a1375c9&ts=1768660887
+华数电影 [1080p] [1080p],http://hmfs.f3322.net:3388/hls/40/index.m3u8
+靖天電影台 [1080p] [1080p],http://iptv.4666888.xyz/iptv2A.php?id=56
+龙华电影1080p [1080p] [1080p],http://iptv.4666888.xyz/iptv2A.php?id=45
+龙华电影1080p [1080p] [1080p],https://cdn8.163189.xyz/163189/lhdy
+龙华电影1080p(梯子) [1080p] [1080p],http://cdn8.veryfast.filegear-sg.me/163189/lhdy
+龙华洋片 [1080p] [1080p],https://live.catvod.com/iptv.php?id=lhyp01
+
+
 
 国际影院,#genre#
 AMC [1080p],http://148.113.160.49:14209
@@ -640,5 +632,5 @@ CCTV 女性时尚 [1080P],http://www.dwphic.com:9999/udp/239.69.1.86:10156
 CCTV-03 [1080P],http://www.chutouge.top:34022/rtp/239.3.1.172:8001
 
 随便找的频道,#genre#随便找的频道
-
+博然讲电影,https://cn-gddg-cu-01-02.bilivideo.com/live-bvc/646171/live_427613894_60883545/index.m3u8
 法国时尚fashion TV,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
