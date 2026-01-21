@@ -1,4 +1,4 @@
-央视,#genre#
+央视,#genre#央视
 CCTV1 [1080P],http://198.204.240.250:82/live/cctv1.m3u8
 CCTV2 [1080P],http://192.151.159.122:82/live/cctv2.m3u8
 CCTV3 [1080P],http://20.253.1.12/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
@@ -35,6 +35,41 @@ CCTV14,http://ms.fxim.net:808/hls/14/index.m3u8
 CCTV15,http://ms.fxim.net:808/hls/15/index.m3u8
 CCTV16,http://ms.fxim.net:808/hls/16/index.m3u8
 CCTV17,http://ms.fxim.net:808/hls/17/index.m3u8
+
+
+卫视频道,#genre#
+北京卫视 [1080p],http://23.237.228.134/live3/beijing.m3u8
+东方卫视 [1080p],http://23.237.228.134/live3/dongfang.m3u8
+江苏卫视 [1080p],http://23.237.228.134/live3/jiangsu.m3u8
+湖南卫视 [1080p],http://23.237.228.134/live6/hunan.m3u8
+浙江卫视 [1080p],http://23.237.228.134/live6/zhejiang.m3u8
+深圳卫视 [1080p],http://23.237.228.134/live6/shenzhen.m3u8
+东南卫视 [1080p],http://23.237.228.134/live6/dongnan.m3u8
+广东卫视 [1080p],http://23.237.228.134/live6/guangdong.m3u8
+广西卫视 [1080p],http://23.237.228.134/live6/guangxi.m3u8
+湖北卫视 [1080p],http://23.237.228.134/live6/hubei.m3u8
+四川卫视 [1080p],http://23.237.228.134/live6/sichuan.m3u8
+海南卫视 [1080p],http://23.237.228.134/live6/hainan.m3u8
+重庆卫视 [1080p],http://23.237.228.134/live6/chongqing.m3u8
+贵州卫视 [1080p],http://23.237.228.134/live6/guizhou.m3u8
+内蒙古卫视 [1080p],http://23.237.228.134/live8/neimenggu.m3u8
+云南卫视 [1080p],http://23.237.228.134/live8/yunnan.m3u8
+山西卫视 [1080p],http://23.237.228.134/live8/shanxi.m3u8
+青海卫视 [1080p],http://23.237.228.134/live8/qinghai.m3u8
+吉林卫视 [1080p],http://23.237.228.134/live8/jilin.m3u8
+辽宁卫视 [1080p],http://23.237.228.134/live8/liaoning.m3u8
+天津卫视 [1080p],http://23.237.228.134/live8/tianjing.m3u8
+江西卫视 [1080p],http://23.237.228.134/live8/jiangxi.m3u8
+安徽卫视 [1080p],http://23.237.228.134/live8/anhui.m3u8
+河北卫视 [1080p],http://23.237.228.134/live8/hebei.m3u8
+甘肃卫视 [1080p],http://23.237.228.134/live8/gansu.m3u8
+浙江卫视4K [4K],https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
+北京卫视4K [4K],http://139.ye23.vip/dl/btv2502.php?id=bjws4
+湖南卫视4K [4K],http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+深圳卫视4K [4K],http://nn.7x9d.cn/深圳最新.php?id=szws4k
+
+
+
 
 卫视,#genre#卫视
 湖南卫视HD [1080P],http://20.253.1.9/PLTV/88888888/224/3221225685/10000100000000060000000000012483_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
@@ -226,6 +261,39 @@ CCTV17,http://ms.fxim.net:808/hls/17/index.m3u8
 广东民生[1080P],http://rihou.cc:555/tv/[AtI]广东民生
 广东经济科教[1080P],http://rihou.cc:555/tv/[AtI]广东经济
 广东大湾区卫视[1080P],http://rihou.cc:555/tv/[AtI]广东湾区
+
+香港频道,#genre#
+HOY77 [1080p],http://hls.168.us.kg/u/77/master.m3u8
+HOY78 [1080p],http://hls.168.us.kg/u/78/master.m3u8
+龙华电影 [1080p],http://cdn8.163189.xyz/163189/lhdy
+龙华经典 [1080p],http://cdn8.163189.xyz/163189/lhjd
+龙华偶像 [1080p],http://cdn8.163189.xyz/163189/lhox
+龙华日韩 [1080p],http://cdn8.163189.xyz/163189/lhrh
+龙华戏剧 [1080p],http://cdn8.163189.xyz/163189/lhxj
+龙华洋片 [1080p],http://cdn8.163189.xyz/163189/lhyp
+翡翠台4K(多音轨字幕) [4K],https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台(多音轨字幕) [1080p],https://o11.163189.xyz/stream/tvb/fct/
+TVB PLUS(多音轨字幕) [1080p],https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台(多音轨字幕) [1080p],https://o11.163189.xyz/stream/tvb/mzt/
+华丽翡翠台(多音轨字幕) [1080p],https://o11.163189.xyz/stream/live/hlt/
+Astro AOD(多音轨字幕) [1080p],https://o11.163189.xyz/stream/live/aod/
+Astro AEC(多音轨字幕) [1080p],https://o11.163189.xyz/stream/live/aec/
+Astro QJ(多音轨字幕) [1080p],https://o11.163189.xyz/stream/live/qj/
+TVB星河(多音轨字幕) [1080p],https://o11.163189.xyz/stream/live/tvbxh/
+爱奇艺 [1080p],https://o11.163189.xyz/stream/live/iqiyi/
+千禧经典台 [1080p],https://o11.163189.xyz/stream/live/tvbc/
+天映频道 [1080p],https://o11.163189.xyz/stream/live/typd/
+天映经典 [1080p],https://o11.163189.xyz/stream/live/ccm/
+澳门频道,#genre#
+门 [1080p],http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星 [1080p],http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳门体育 [1080p],http://cdn6.163189.xyz/163189/amty
+澳门综艺 [1080p],http://cdn6.163189.xyz/163189/amzy
+澳门莲花 [1080p],http://cdn6.163189.xyz/163189/amlh
+
+
+
+
 
 
 🇭🇰港🇲🇴澳🇹🇼台专区,#genre#
@@ -547,6 +615,4 @@ CCTV-03 [1080P],http://www.chutouge.top:34022/rtp/239.3.1.172:8001
 
 随便找的频道,#genre#随便找的频道
 
-SOOP韩剧[1080P],https://live.iill.top/soop/ghth6009
-SOOP(韩)小姐姐1 [1080P],https://live.iill.top/soop/zesting
-SOOPWWE [1080P],https://live.iill.top/soop/wwe1
+法国时尚fashion TV,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
