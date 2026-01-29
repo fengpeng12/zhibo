@@ -280,7 +280,7 @@
 {"name":"学外语频道18+","type":0,"url":"https://raw.githubusercontent.com/fengpeng12/zhibo/refs/heads/main/18%2B1080p.txt","playerType":2,"timeout":10},
 {"name":"8000个国外电视台","type":0,"url":"https://iptv-org.github.io/iptv/index.m3u","playerType":2,"timeout":10},
 {"name":"央视各种直播源","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u","playerType":2,"timeout":10},
-{"name":"自用超清频道","type":0,"url":"https://raw.githubusercontent.com/fengpeng12/zhibo/refs/heads/main/1080p.m3u","playerType":2,"timeout":10},
+{"name":"自用超清频道","type":0,"url":"https:\/\/raw.githubusercontent.com/fengpeng12/zhibo/refs/heads/main/1080p.m3u","playerType":2,"timeout":10},
 {"name":"港澳外需要梯子","type":0,"url":"https://tv.iill.top/m3u/MyTV","playerType":2,"timeout":10},
 {"name":"欧美需要梯子","type":0,"url":"https://tg-sub-bot.sharewithyou.dpdns.org/m3u?token=17d6eeb1-9c91-4639-b217-2c111c783857","playerType":2,"timeout":10},
 {"name":"国外台","type":0,"url":"https://gitee.com/messy-in-the-win/tv/raw/master/%E5%9B%BD%E5%A4%96%E7%94%B5%E8%A7%86%E5%8F%B02024.9.m3u","playerType":2,"timeout":10},
