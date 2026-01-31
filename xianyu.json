@@ -1,12 +1,1 @@
-
-{
-"spider":"",
-"wallpaper":"",
-"sites":[
-],
-
-
-
-"lives":[{"name":"chaoqing","type":0,"url":"https://raw.githubusercontent.com/fengpeng12/zhibo/refs/heads/main/1080p.m3u","playerType":2,"timeout":10},
-{"name":"✘","type":0,"url":"","playerType":2,"timeout":10}
-]}
+{"spider":"","wallpaper":"","sites":[],"lives":[{"name":"chaoqing","type":0,"url":"https://raw.githubusercontent.com/fengpeng12/zhibo/refs/heads/main/1080p.m3u","playerType":2,"timeout":10},{"name":"✘","type":0,"url":"","playerType":2,"timeout":10}]}
