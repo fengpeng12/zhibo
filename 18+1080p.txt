@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="🔞台湾成人直播",24×7东京热
+http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159976
+#EXTINF:-1 group-title="🔞台湾成人直播",24×7日本道
+http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159958
+#EXTINF:-1 group-title="🔞台湾成人直播",24x7啪啪啪
+http://7707bo.trustdeveloppment.com/live/cx_15642.flv
 #EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 #EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美
