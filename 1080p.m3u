@@ -682,3 +682,146 @@ CCTV 女性时尚[1080p],http://www.dwphic.com:9999/udp/239.69.1.86:10156
 CCTV-03[1080p],http://www.chutouge.top:34022/rtp/239.3.1.172:8001
 随便找的频道,#genre#
 博然讲电影,https://cn-gddg-cu-01-02.bilivideo.com/live-bvc/646171/live_427613894_60883545/index.m3u8
+
+
+4K超清,#genre#
+Love Nature 4K CA [4K],https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/00ee4f47-16cf-4246-84ae-732b43eb8dfc/0.m3u8
+Bloomberg TV 4K [4K],https://1cd69008d08c486ca5abc0f1c4e2ef63.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/87e22cf4-e302-42f6-a781-1d726fc87835/0.m3u8
+Sky Sports Main Event 4K UK [4K],https://a1xs.vip/2000015
+Sky Sports F1 4K UK [4K],https://a1xs.vip/2000016
+TNT Sports Ultimate 4K UK [4K],https://a1xs.vip/2000031
+Eurosport 4K FR [4K],https://7pal.short.gy/eusport4k
+新闻资讯,#genre#
+CNN International [1080p],https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/e18752ea-666a-42c4-bae6-39aee18b24ad/0.m3u8
+NEWSMAX [1080p],https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+Sky News UK [1080p],https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/718c39c4-3fb9-4ecd-9c56-a7b880c7df7d/4.m3u8
+France 24 FR [1080p],https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/ts-eu-w1-n2/playlist/amg00106-france24-france24-samsunguk/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d88b3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a54a1ac32640b28210d4804fb9d2c95a9f15866ba0469893ed8c82178b8e9167ab5fe3645c025c17f4817d808749b5e5897d2b957f2f34733f8db8a7dd710fb2756a72dfe291cf0f9612ca9a6b826f27ab01ea2cee51da31d963c0e04ab3e3bfd6463351cea240511489c1bdd0835f54bc62e8ecedd3670ef49c7f6373e85fff071f17a0c9d64ec4a97b97b230cbb5790d07c49e489a94bcf181dae151bd15faf8d0b71063674d1958fa37ce9b69c867dc68b8f11d20514836c1f03fdfa7e96e0f4c6eaba543e61371c1b30a28426c41a85528188555d7521169c8745f68e439fc894e14e34424a445f07fc557fa2fd2b73ee1af9bc40b3ea7d7c443850fa5d558949e8ace1cbf9cf917b2ac7d6535e5e36da3f62441630f8bf2c7e4650003edb8eef6c9503900362d836de1f7ca7f8187cc251c59941d76203c3d16950dd87dd013415b6ee010c7a90534a807226dc9947f651a3dc6f7e0d4b8818304946fc3c3f80e2a39726aa97c5075399de5db19b513634a5771cc4f684ab6021a65ef96c2ead0c04dc68e6ba73d2d453796be470f591c2323399a9669c557adc64eeed5990abe80e7766ab67c9b7377cf80e33dadd2d6bd0865f68d5816609bd655a0523dd71bd151e5f178cabf58035c710067f1ce6cbd389dda89cc3f953ca72c522cbc98da334d437c0085f00e405e43b055085b3498677cda25/126/1920x1080_6046040/index.m3u8
+Euronews FR [1080p],https://aka-live1050.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-origin/out/v1/live_1080.m3u8
+Al Jazeera English QA [1080p],https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
+体育竞技,#genre#
+ESPN8: The Ocho [1080p],https://d3b6q2ou5kp8ke.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/aab88f58-adb6-4466-aceb-3b71a6f23411/4.m3u8
+beIN SPORTS XTRA [1080p],https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
+UFC [1080p],https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+PFL [1080p],https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://jmp2.uk/rok-e46ac8cd0299b4c5f1403d999a432561.m3u8
+The Cowboy Channel [1080p],https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/6734bc78-b4d5-4d7c-95d1-f1c29f5ae1a7/4.m3u8
+World Fishing Network [1080p],http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+Red Bull TV [1080p],https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Sky Sports Main Event UK [1080p],https://a1xs.vip/2000001
+Sky Sports Football UK [1080p],https://7pal.short.gy/ssportsfb
+Sky Sports+ UK [1080p],https://a1xs.vip/2000012
+Sky Sports NFL UK [1080p],https://7pal.short.gy/ssportsat
+TNT Sports 4 UK [1080p],https://a1xs.vip/2000024
+Sportsnet Pacific CA [1080p],http://tv.zapping.life:8080/kcoiscou/KHtKTMfRDX/45809
+SKY Sport 8 NZ [1080p],https://a1xs.vip/700008
+Sport TV 5 PT [1080p],http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/31946/index.m3u8
+Sport TV 6 PT [1080p],http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/31947/index.m3u8
+Sport TV 7 PT [1080p],http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/31948/index.m3u8
+DAZN 3 PT [1080p],http://410f4158.amazzin.pw/iptv/QUG88KPCD53DU7RT856RPCAE/7062/index.m3u8
+DAZN 4 PT [1080p],http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/2534/index.m3u8
+Fox Sports 507 AU [1080p],https://a1xs.vip/700007
+付费影视频道,#genre#
+HBO [1080p],http://23.237.104.106:8080/USA_HBO/index.m3u8
+HBO Hits [1080p],http://fl1.moveonjoy.com/HBO_2/index.m3u8
+HBO Movies [1080p],http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+Showtime 2 [1080p],http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+Starz in Black [1080p],http://1tv41.icu:8080/live/Y06DNq/295733/17779.rtmp
+Cinemax Hits [1080p],http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+Cinemax Classics [1080p],http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+Sky Cinema Select UK [1080p],https://a1xs.vip/210004
+Sky Cinema Hits UK [1080p],https://a1xs.vip/210002
+影视剧场,#genre#
+TCM [1080p],http://410f4158.amazzin.pw/iptv/QUG88KPCD53DU7RT856RPCAE/31084/index.m3u8
+IFC [1080p],http://23.237.104.106:8080/USA_IFC/index.m3u8
+CW Gold [1080p],https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/38015ed8-f2f0-4228-9884-dd4ebb279f6d/0.m3u8
+CW Forever [1080p],https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/a780e5bb-c530-4f73-9f37-e254cf84c75e/0.m3u8
+Universal Movies [1080p],https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/60219409-13b5-49fa-bc99-cb399c63c7a5/4.m3u8
+Universal Monsters [1080p],https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e2d3cb30-7355-4461-9a9e-062b768b8482/4.m3u8
+Universal Westerns [1080p],https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e0e4ab6f-803c-4dc5-868e-fff936a90ac4/4.m3u8
+Universal Action [1080p],https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/686d0fc3-a9af-4a1a-b2b1-93ca59a892a7/4.m3u8
+MovieSphere [1080p],https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphere-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+BBC Drama UK [1080p],https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/49aa1da0-3362-4e85-95ad-8c931382cd77/0.m3u8
+地区综合,#genre#
+CBS 2 Los Angeles [1080p],http://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8
+CBS 2 Chicago [1080p],http://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
+FOX 5 New York [1080p],https://s11host1.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/ad9c35b4-d196-4455-9375-d1b8fe95da38/5.m3u8
+FOX 11 Los Angeles [1080p],https://s11host1.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/5f83526d-721d-4962-8d6c-0cadeb29fb71/5.m3u8
+Channel 4 UK [1080p],https://a1xs.vip/1000031
+France 2 FR [1080p],http://nocable.cc:8080/96082340/96082340/160297
+France 3 FR [1080p],http://nocable.cc:8080/96082340/96082340/160298
+France 4 FR [1080p],http://nocable.cc:8080/96082340/96082340/160299
+Canal+ FR [1080p],http://410f4158.amazzin.pw/iptv/QUG88KPCD53DU7RT856RPCAE/6007/index.m3u8
+综合娱乐,#genre#
+Comedy Central [1080p],http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+纪实科普,#genre#
+Vice TV [1080p],http://nocable.cc:8080/30550113/30550113/46697
+PBS Nature [1080p],https://aka-live1050.delivery.roku.com/a62d3341-2418-4d26-b27a-34bd6af48572/t2-origin/out/v1/live_1080.m3u8
+CNN Originals [1080p],https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=fb1e0569-660a-486e-8305-a6305ea8c195&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+Universal Crime [1080p],https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/240a75f6-7060-490c-a26c-73835607531b/4.m3u8
+BBC Earth UK [1080p],https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4f4fa83d-b516-44fb-b501-1f1e1f575d97/0.m3u8
+生活时尚,#genre#
+Food Network [1080p],http://nocable.cc:8080/30550113/30550113/7323
+Motor Trend [1080p],http://nocable.cc:8080/30550113/30550113/10399
+PBS Food [1080p],https://aka-live1050.delivery.roku.com/96414c68-02f2-4e5c-8e5d-355025ccf724/t2-origin/out/v1/live_1080.m3u8
+PBS Travel [1080p],https://aka-live1050.delivery.roku.com/28ebe867-ca17-4e50-89d3-1ed16ebc4f2e/t2-origin/out/v1/live_1080.m3u8
+BBC Top Gear UK [1080p],https://d2bp00c711q1cu.cloudfront.net/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/cb543e1f796c648e9dd43c66cef340a1f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2a95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5b1144a902c16e1805f9d811aee9dd55ac8439b7ef345958fa4ded31687879635aa06b6615319481398846addcd58a0d3996c349d7a2d34713f8b98b7db7815a5627c71d9d4ee823f8079a38821922e22a8108a4692318972d867cd8d75959e84ef70680f85e7625c7dd88fcd8bff267db969f5adfdce76709584731222f249f6111662e297ac1580d05b9fb022f7d3037803e9b764a6c7f1e980b18959d224dad7e78c32504b76160ef42dc8f456fa19ed479bfa3c1379787681a70fb0ecb15f34710181844ec66173d3bdb0a4fb3e09f73a69308f61dd484b60cd201e1b8f48c2b61158b47c70ef5e3cff4b7b834de9b638e7bea98e6c528efde877d15bdd8c37888b68c56c384a4cb7f73a56464974d49c0b675b42e760d2fae9c4482024d1adbd94a6523c14771e427eed88834bb2befd73667caa5222733a19119710cf79da72256a44f237f58d3640bc360410bce655335b688586b09197c0cf56a676dcc18f56455662428d033a104be185a476d305113f1033810b770db9024c4be990ddfc89851ca1f609911c47224ae6d528753062565e50e0fa03d65af1dd1ca98bc45dc1eaff7e2fef07823120a1fefd41ddd0db83256391ae44577396c120c0672cc365a041fae944f9827223281d6477e3a278d0689cfba79d5bf04aac4b1030ff79c9fa89d7ed5377dacb34595f0851043150632208b4dfdc60721586d01cc76dd6d4779c6c701f1a7a84c16a3187ec645298306869a6a5c684a9cf0f62ba049a4eed45358f742811cce31ccfaf8fa9b9ed005504caf8ac48abb38b8ec2c5cf286a791c5af5fa787147ea19d3a329d2883348d2bbba8fa906259ded4fd9ac9d6c8d14afc5bb4e859f93f989187d3c7b648c0a736776a1d82b56b27aa12d6778cecf8c7c028a1d342f36757cb6a57e91f272caa72397db4ea60aabef3865cf88675eea5f3dcfe7c5f77da2318a2f2874fdc180216e81934fdb609a96fe0158831b16bf07776fb879f6c792686ca193204069ad5a57b326d1f78e151953be826a201d080e3e00c50f097fb37039f35afacfca85450cc241860634ba3988c754acad45aed0cce1a1e83d2af6a35f58a241b745e963fdd889f92aad1c34f93fdf4934d4b0b69ae7df878fbdb84f0a27c711a45eb231f0a08e9e7a01067fac6a1a5a38f018b9662a5b86cb58cfe7002ca9edbd3b81617040111f24c009b4ff441011c3e81bff62770c9868bf8adb0e0a71d55d106167e50900/184/1920x1080_4610249/index.m3u8
+音乐艺术,#genre#
+CMT [1080p],http://nocable.cc:8080/96082340/96082340/46706
+Vevo 2K [1080p],https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live_1080.m3u8
+Vevo '90s [1080p],https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live_1080.m3u8
+Vevo '80s [1080p],https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live_1080.m3u8
+Vevo '70s [1080p],https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live_1080.m3u8
+Vevo Country [1080p],https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live_1080.m3u8
+Vevo Latino [1080p],https://aka-live1050.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live_1080.m3u8
+Vevo Pop [1080p],https://aka-live1050.delivery.roku.com/2436b19a-5fb6-4245-99f9-ba3dc33af3c0/t2-origin/out/v1/live_1080.m3u8
+Vevo Hip-Hop [1080p],https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-origin/out/v1/live_1080.m3u8
+Vevo R&B [1080p],https://aka-live1050.delivery.roku.com/395d8b66-d246-4bf2-87b6-89a5dc1084ed/t2-origin/out/v1/live_1080.m3u8
+Vevo Reggaeton & Trap [1080p],https://aka-live1050.delivery.roku.com/3facddc6-460f-4902-861c-0949fca8e3b6/t2-origin/out/v1/live_1080.m3u8
+Vevo Rock [1080p],https://d2hdqrshyzxswl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/d3e90c9b-f738-4126-9e26-b4cdb23652b6/3.m3u8
+Trace Urban UK [1080p],https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/cb543e1f796c648e9dd43c66cef340a1f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2a95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e41f49c12c17b6d45f9cd449bf9dd55ac8439b7ea41dcb8fa18d861481d39435a957b5365328481498846addca52a6ca9b1b5af610781c6d3f81a297ed00388f4331349299d08f56d637d3d35deb0736bf13d64b8a24f806c062bcd56f928a9eeb6d710db99e1b0b49a1e1b3c4fa25238262f4afe8d47d0ef79c786366f95de7060415b1d4e509debf7ffab72796fa680d28ff9f449698c0ef85da966bac15f5e9d5b5185f141d6e6f8759b1d479d816ce6cbac71d262e202ec68161e7b9ea6a024b61a19d6ce57968d169638ca56c13e1227272e76ede1b2e63c2331e138f4fd8a94ca70dbb68ff511ce85134fa22b6d87eb0cf538277fc3df689ddde39cfccf58ebab65387007948ddd33f56440355dfe061321b76cd42de02ab8b62240ff6fec1f2c11c6d4969571a218ae1ee7e8f81d3214656e85d326578503a97079646ec4071407f992182f93623cc46003df6ab3a6a5f6ebdc1a5ced2859d0ae6299387d6111b16752ffd3f0c2d6b9391885af637023e595592006946f2560e11a4c587b5d7d02efd9d62ab2a6b5b3696a759125f201c096eb4a328ef2c85c24d86ca9f639b95ca7823a233ac061c9ba2b94de8fd8dc23562b3a245166a92936a855c1e872f964cacd763d3a45a16165e141c22efb7388f13b96d9993273b68469d64fb51966929e9fc/44/1920x1080_5288800/index.m3u8
+少儿动画,#genre#
+Boomerang [1080p],http://nocable.cc:8080/96082340/96082340/53718
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
