@@ -760,7 +760,25 @@ CCTV17,http://ms.fxim.net:808/hls/17/index.m3u8
 湖南卫视4K [4K],http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 深圳卫视4K [4K],http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
-自选,#genre#
+
+大杂烩,#genre#
+凤凰资讯 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
+凤凰中文 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+CCTV12 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228551/index.m3u8
+59 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228559/index.m3u8
+山东卫视 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228560/index.m3u8
+62 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
+广东卫视 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228566/index.m3u8
+深圳卫视 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228569/index.m3u8
+CCTV1 [4K],http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
+82 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228582/index.m3u8
+86 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228586/index.m3u8
+88 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228588/index.m3u8
+CCTV8 [4K],http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
+浙江卫视 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228591/index.m3u8
+QQ音乐轮播 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228592/index.m3u8
+95 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228595/index.m3u8
+98 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228598/index.m3u8
 CCTV1 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV2 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=8
 CCTV3 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=9
@@ -835,6 +853,30 @@ TVB星河(多音轨字幕) [1080p],https://o11.163189.xyz/stream/live/tvbxh/
 
 
 🇭🇰港🇲🇴澳🇹🇼台专区,#genre#
+NOW新闻台 [1080p],http://cdn.163189.xyz/163189/now
+VIUTV [1080p],https://cdn.163189.xyz/163189/viu
+无线新闻 [1080p],http://r.jdshipin.com/CkuBd
+TVB Plus [1080p],http://r.jdshipin.com/ndGgS
+凤凰中文 [1080p],http://r.jdshipin.com/cCCzW
+凤凰资讯 [1080p],http://r.jdshipin.com/0Rp07
+凤凰香港 [1080p],http://r.jdshipin.com/yDoTN
+翡翠台 [4K],https://cdn6.163189.xyz/163189/fct4k
+翡翠台 [1080p],https://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台 [1080p],https://mytv.cdn.loc.cc/o12.php?id=mzt
+亚洲卫视 [1080p],https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+澳视澳门 [1080p],http://r.jdshipin.com/n2YZI
+澳门体育 [1080p],http://cdn6.163189.xyz/163189/amty
+澳门综艺 [1080p],http://cdn6.163189.xyz/163189/amzy
+CH5 [1080p],http://cdn6.163189.xyz/163189/ch5
+CH8 [1080p],http://cdn6.163189.xyz/163189/ch8
+CHU [1080p],http://cdn6.163189.xyz/163189/chu
+Channel 5 [1080p],http://cdn6.163189.xyz/163189/ch5
+Channel 8 [1080p],http://cdn6.163189.xyz/163189/ch8
+Channel U [1080p],http://cdn6.163189.xyz/163189/chu
+重温经典 [1080p],http://8.138.7.223/tv/cwjd.php
+八度空间 [1080p],http://cdn6.163189.xyz/163189/8tv
+生命电影 [1080p],http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+TVB [1080p],http://r.jdshipin.com/Nr5jq
 翡翠台 [1080p],http://74.91.26.218:82/live/jade.m3u8
 翡翠台 [1080p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 明珠台 [1080p],https://o11.163189.xyz/stream/tvb/mzt/
@@ -923,7 +965,6 @@ CTS華視新聞资讯 [1080p],http://220.135.64.124:5050/of-4gtv-4gtv052/index.m
 非凡新聞HD [1080p],http://iptv.4666888.xyz/iptv2A.php?id=44
 龙华偶像 [1080p],https://cdn8.163189.xyz/163189/lhox
 台视新闻 [1080p],http://222.128.55.152:9080/live/ts.m3u8
-中天新闻 [1080p],http://222.128.55.152:9080/live/fc.m3u8
 华视 [1080p],http://211.72.174.95:8114/0.ts
 公视 [1080p],http://211.72.174.95:8116/0.ts
 民视 [1080p],http://211.72.174.95:8115/0.ts
@@ -935,67 +976,66 @@ Now新闻台 [1080p],http://rihou.cc:555/tv/[Cx]Now新闻
 民視新聞台 [1080p],http://74.91.26.218:82/live/ftvnews.m3u8
 翡翠台 [1080p],http://mytv.cdn.loc.cc/o12.php?id=fct
 TVBJ1 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB plus [1080p],http://74.91.26.218:82/live/j2.m3u8
-TVB plus [1080p],https://o11.163189.xyz/stream/tvb/tvbp/
-TVB plus [1080p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-TVB plus [1080p],https://cdn6.163189.xyz/163189/tvbp
-ViuTV [1080p],https://cdn.163189.xyz/163189/viu
-RHK31 [1080p],https://live.catvod.com/iptv.php?id=rthk31
-RHK31 [1080p],http://cdn.163189.xyz/163189/rthk31
-RHK32 [1080p],https://live.catvod.com/iptv.php?id=rthk32
-RHK32 [1080p],http://cdn.163189.xyz/163189/rthk32
 HOY76 [1080p],http://hls.168.us.kg/u/76/master.m3u8
 HOY77 [1080p],http://hls.168.us.kg/u/77/master.m3u8
-HOY77 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=35
-HOY77 [1080p],http://cdn.163189.xyz/163189/hoy
 HOY78 [1080p],http://hls.168.us.kg/u/78/master.m3u8
 HOY78 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=31
-凤凰中文HD [1080p],http://r.jdshipin.com/cCCzW
-凤凰资讯HD [1080p],http://r.jdshipin.com/0Rp07
 Now财经 [1080p],http://hls.168.us.kg/u/333/master.m3u8
 Now财经 [1080p],http://rihou.cc:555/tv/[Mt]Now财经
 Now直播 [1080p],https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
 Now直播 [1080p],http://rihou.cc:555/tv/[Mt]Now直播
 Now体育 [1080p],http://rihou.cc:555/tv/[Mt]Now体育
-台视财经HD [1080p],http://74.91.26.218:82/live/ttvcj.m3u8
-华视HD [1080p],http://74.91.26.218:82/live/cts.m3u8
-中視HD [1080p],http://74.91.26.218:82/live/ctv.m3u8
-中視HD [1080p],http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
-中视经典HD [1080p],http://74.91.26.218:82/live/ctvjd.m3u8
-中视菁采HD [1080p],http://74.91.26.218:82/live/ctvjc.m3u8
-台視HD [1080p],http://74.91.26.218:82/live/ttv.m3u8
 民视 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=55
 民视综艺 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=46
-TVBS精采台HD [1080p],http://iptv.4666888.xyz/iptv2A.php?id=47
 亚洲卫视 [1080p],https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-澳视Macau [1080p],http://r.jdshipin.com/QFhCq
 Now新闻台 [1080p],http://hls.168.us.kg/u/332/master.m3u8
 Now新闻台 [1080p],http://rihou.cc:555/tv/[Mt]Now新闻
 CTS華視新聞资讯 [1080p],http://74.91.26.218:82/live/ctsnews.m3u8
 中視新聞HD [1080p],http://74.91.26.218:82/live/ctvnews.m3u8
-中視新聞HD [1080p],http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-台视新闻HD [1080p],http://74.91.26.218:82/live/ttvnews.m3u8
-NOW新闻台 [1080p],http://cdn.163189.xyz/163189/now
-VIUTV [1080p],https://cdn.163189.xyz/163189/viu
-民视新闻 [1080p],http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-无线新闻 [1080p],http://r.jdshipin.com/CkuBd
-凤凰中文 [1080p],http://r.jdshipin.com/cCCzW
-翡翠台 [4K],https://cdn6.163189.xyz/163189/fct4k
-翡翠台 [1080p],https://mytv.cdn.loc.cc/o12.php?id=fct
-亚洲卫视 [1080p],https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-澳视澳门 [1080p],http://r.jdshipin.com/n2YZI
+HISTORY頻道 [1080p],http://37.27.111.214:8080/live/27/hls.m3u8
+TVBS亚洲 [1080p],http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+民视新闻台 [1080p],http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+面包台 [1080p],https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+生命電視 [1080p],http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+翡翠台 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct
+翡翠台 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
+翡翠台 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct3
+翡翠台 [4K],https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
+明珠台 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
+明珠台 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt2
+TVB Plus [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
+无线新闻 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxw
+VIUTV [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv2
+HOY TV [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
+HOY TV [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
+HOY资讯台 [1080p],http://cdn.163189.xyz/163189/hoy78
+HOY剧集台 [1080p],http://cdn.163189.xyz/163189/hoyjj
+凤凰中文 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzw
+凤凰资讯 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzx
+凤凰香港 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
+重温经典 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=cwjd
+广东珠江 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
+广东体育 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdty
+澳视澳门 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=asam
+澳视卫星 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=as
 澳门体育 [1080p],http://cdn6.163189.xyz/163189/amty
 澳门综艺 [1080p],http://cdn6.163189.xyz/163189/amzy
-CH5 [1080p],http://cdn6.163189.xyz/163189/ch5
-CH8 [1080p],http://cdn6.163189.xyz/163189/ch8
-CHU [1080p],http://cdn6.163189.xyz/163189/chu
-Channel 5 [1080p],http://cdn6.163189.xyz/163189/ch5
-Channel 8 [1080p],http://cdn6.163189.xyz/163189/ch8
-Channel U [1080p],http://cdn6.163189.xyz/163189/chu
-重温经典 [1080p],http://8.138.7.223/tv/cwjd.php
-八度空间 [1080p],http://cdn6.163189.xyz/163189/8tv
-中旺电视 [1080p],http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
-生命电影 [1080p],http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+澳门莲花 [1080p],http://cdn6.163189.xyz/163189/amlh
+RTHK31 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk31
+RTHK32 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk32
+CCTV1港澳版 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk33
+龙华电影 [1080p],http://cdn8.163189.xyz/163189/lhdy
+龙华经典 [1080p],http://cdn8.163189.xyz/163189/lhjd
+龙华偶像 [1080p],http://cdn8.163189.xyz/163189/lhox
+龙华戏剧 [1080p],http://cdn8.163189.xyz/163189/lhxj
+华丽翡翠台 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=huali
+TVB星河 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxh
+千禧经典台 [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbc
+Astro AOD [1080p],https://php.jdshipin.com:2096/TVOD/iptv.php?id=aod
+翡翠台4K [4K],https://cdn6.163189.xyz/163189/fct4k
+翡翠台(字幕) [1080p],https://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台(字幕) [1080p],https://mytv.cdn.loc.cc/o12.php?id=mzt
+CCTV13 [1080p],http://cdn3.163189.xyz/163189/cctv13
 
 
 电影频道,#genre#
@@ -1017,6 +1057,27 @@ CCTV6电影 [1080p],http://27.41.245.32:801/hls/6/index.m3u8
 龙华电影 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影 [1080p],https://cdn8.163189.xyz/163189/lhdy
 龙华电影 [1080p],https://live.catvod.com/iptv.php?id=lhdy01
+NOW新闻台 [1080p],http://cdn.163189.xyz/163189/now
+VIUTV [1080p],https://cdn.163189.xyz/163189/viu
+民视新闻 [1080p],http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+无线新闻 [1080p],http://r.jdshipin.com/CkuBd
+凤凰中文 [1080p],http://r.jdshipin.com/cCCzW
+翡翠台 [4K],https://cdn6.163189.xyz/163189/fct4k
+翡翠台 [1080p],https://mytv.cdn.loc.cc/o12.php?id=fct
+亚洲卫视 [1080p],https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+澳视澳门 [1080p],http://r.jdshipin.com/n2YZI
+澳门体育 [1080p],http://cdn6.163189.xyz/163189/amty
+澳门综艺 [1080p],http://cdn6.163189.xyz/163189/amzy
+CH5 [1080p],http://cdn6.163189.xyz/163189/ch5
+CH8 [1080p],http://cdn6.163189.xyz/163189/ch8
+CHU [1080p],http://cdn6.163189.xyz/163189/chu
+Channel 5 [1080p],http://cdn6.163189.xyz/163189/ch5
+Channel 8 [1080p],http://cdn6.163189.xyz/163189/ch8
+Channel U [1080p],http://cdn6.163189.xyz/163189/chu
+重温经典 [1080p],http://8.138.7.223/tv/cwjd.php
+八度空间 [1080p],http://cdn6.163189.xyz/163189/8tv
+中旺电视 [1080p],http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
+生命电影 [1080p],http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 
 
 风云TV,#genre#
