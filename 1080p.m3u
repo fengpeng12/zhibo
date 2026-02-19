@@ -664,6 +664,11 @@ CCTV14 [1080p],http://107.150.52.50:82/live/cctv14.m3u8
 CCTV15 [1080p],http://69.197.146.138:82/live/cctv15.m3u8
 CCTV16 [1080p],http://69.197.146.138:82/live/cctv16.m3u8
 CCTV17 [1080p],http://69.197.146.138:82/live/cctv17.m3u8
+CCTV1,http://173.208.187.18:82/live/cctv1.m3u8
+CCTV5,http://173.208.187.18:82/live/cctv5.m3u8
+CCTV6,http://173.208.187.18:82/live/cctv6.m3u8
+CCTV13,http://173.208.187.18:82/live/cctv13.m3u8
+
 
 央视2,#genre#央视2
 CCTV1,http://ms.fxim.net:808/hls/1/index.m3u8
@@ -758,24 +763,6 @@ TVB星河(多音轨字幕) [1080p],https://o11.163189.xyz/stream/live/tvbxh/
 
 
 🇭🇰港🇲🇴澳🇹🇼台专区,#genre#
-中天新聞台 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv009
-華視新聞 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv052
-中視新聞 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv074
-第1商業台 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv104
-寰宇新聞台灣台 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv156
-寰宇財經台 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv158
-寰宇新聞台 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn14
-三立新聞iNEWS [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=iNEWS
-倪珍播新聞 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=nnews-zh
-中視 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv040
-華視 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv041
-國會頻道1台 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv084
-東森購物1台 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv102
-東森購物2台 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv103
-好消息 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-ftv16
-好消息2台 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-ftv17
-DayStar [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=daystar
-亞洲旅遊台 [1080p],https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv076
 NOW新闻台 [1080p],http://cdn.163189.xyz/163189/now
 VIUTV [1080p],https://cdn.163189.xyz/163189/viu
 无线新闻 [1080p],http://r.jdshipin.com/CkuBd
