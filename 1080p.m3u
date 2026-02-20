@@ -560,22 +560,21 @@ CCTV16-4K超高清 [4K],http://ott.mobaibox.com/PLTV/4/224/3221228168/index.m3u8
 三沙卫视 [1080p],http://ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
 
 央卫(联通),#genre#
-CCTV1综合 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV1综合 [1080p],http://kouki.pro:8888/udp/239.49.8.129:6000
+CCTV1综合 [1080p],http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
 CCTV2财经 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=8
 CCTV2财经 [1080p],http://27.41.245.32:801/hls/2/index.m3u8
+CCTV2财经 [1080p],http://kouki.pro:8888/udp/239.49.8.50:9802http://27.41.245.32:801/hls/8/index.m3u8
 CCTV3综艺 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=9
 CCTV3综艺 [1080p],http://kouki.pro:8888/udp/239.49.8.74:8000
 CCTV3综艺 [1080p],https://iptv.catvod.com/live.php?id=CCTV-3
 CCTV4中文国际 [1080p],http://iptv.4666888.xyz/iptv2A.php?id=10
 CCTV4中文国际 [1080p],http://kouki.pro:8888/udp/239.49.8.51:9806
-CCTV4中文国际美洲 [1080p],http://dsl1.oni2023.uk:8888/udp/239.253.43.121:5146
+CCTV4中文国际 [1080p],http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
 CCTV4中文国际美洲 [1080p],http://baota.guangyuan.site:8188/udp/239.253.43.121:5146
-CCTV4中文国际欧洲 [1080p],http://dsl1.oni2023.uk:8888/udp/239.253.43.120:5146
 CCTV5体育 [1080p],http://kouki.pro:8888/udp/239.49.8.75:8000
 CCTV5体育 [1080p],http://27.41.245.32:801/hls/5/index.m3u8
 CCTV5体育 [1080p],https://iptv.catvod.com/live.php?id=CCTV-5
-CCTV5+体育赛事 [1080p],http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+体育赛事 [1080p],https://iptv.catvod.com/live.php?id=CCTV-5plus
 CCTV6电影1080p [1080p],http://kouki.pro:8888/udp/239.49.8.76:8000
 CCTV6电影1080p [1080p],http://27.41.245.32:801/hls/6/index.m3u8
@@ -590,11 +589,14 @@ CCTV9纪录 [1080p],http://kouki.pro:8888/udp/239.49.8.53:9814
 CCTV9纪录 [1080p],https://iptv.catvod.com/live.php?id=CCTV-9
 CCTV9纪录 [1080p],http://222.214.208.34:59901/tsfile/live/0009_1.m3u8
 CCTV10科教 [1080p],http://27.41.245.32:801/hls/10/index.m3u8
+CCTV10科教 [1080p],http://kouki.pro:8888/udp/239.49.8.54:9818
 CCTV10科教 [1080p],https://iptv.catvod.com/live.php?id=CCTV-10
 CCTV11科戏曲 [1080p],https://iptv.catvod.com/live.php?id=CCTV-11
 CCTV11科戏曲 [1080p],http://222.214.208.34:59901/tsfile/live/0011_1.m3u8
 CCTV12社会与法 [1080p],https://iptv.catvod.com/live.php?id=CCTV-12
+CCTV12社会与法 [1080p],http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
 CCTV12社会与法 [1080p],http://222.214.208.34:59901/tsfile/live/0012_1.m3u8
+CCTV13新闻1080p [1080p],http://111.127.156.214:51234/rtp/239.29.1.123:5000
 CCTV13新闻1080p [1080p],http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
 CCTV14少儿 [1080p],https://iptv.catvod.com/live.php?id=CCTV-14
 CCTV14少儿 [1080p],http://27.41.245.32:801/hls/14/index.m3u8
@@ -604,21 +606,16 @@ CCTV17农业农村 [1080p],https://iptv.catvod.com/live.php?id=CCTV-17
 CCTV怀旧剧场 [1080p],http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV第一剧场 [1080p],http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 CCTV第一剧场 [1080p],http://w.yao87.com:4022/rtp/239.76.254.49:9000
-CCTV世界地理 [1080p],http://hmfs.f3322.net:3388/hls/28/index.m3u8
 CCTV世界地理 [1080p],http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CCTV风云剧场 [1080p],http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-CCTV风云剧场 [1080p],http://hmfs.f3322.net:3388/hls/20/index.m3u8
-CCTV风云足球 [1080p],http://hmfs.f3322.net:3388/hls/9/index.m3u8
 CCTV风云足球 [1080p],http://27.41.245.32:801/hls/906/index.m3u8
 CCTV风云音乐 [1080p],http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-CCTV风云音乐 [1080p],http://hmfs.f3322.net:3388/hls/29/index.m3u8
 CGTN俄语 [1080p],https://russian-livews.CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 CGTN法语 [1080p],https://francais-livews.CGTN.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN西语 [1080p],https://espanol-liveali.CGTN.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 CGTN阿语 [1080p],https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 广东卫视 [1080p],https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
 广东卫视 [1080p],http://222.214.208.34:59901/tsfile/live/0125_1.m3u8
-广东卫视 [1080p],http://rihou.cc:555/tv/[AtI]广东卫视
 广西卫视 [1080p],https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
 湖南卫视 [1080p],https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 湖南卫视 [1080p],http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -634,9 +631,7 @@ CGTN阿语 [1080p],https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ2
 江苏卫视 [1080p],http://27.41.245.32:801/hls/42/index.m3u8
 东方卫视4K [1080p],https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 甘肃卫视 [1080p],https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
-贵州卫视 [1080p],http://23.237.228.134/live6/guizhou.m3u8
 黑龙江卫视 [1080p],https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-四川卫视 [1080p],http://23.237.228.134/live6/sichuan.m3u8
 四川卫视 [1080p],https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0
 吉林卫视 [1080p],https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 辽宁卫视 [1080p],https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -1065,21 +1060,15 @@ HBO+ [1080p],http://148.113.160.49:14194
 
 
 少儿频道,#genre#
-CCTV14少儿 [1080p],http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
 CCTV14少儿 [1080p],https://iptv.catvod.com/live.php?id=CCTV-14
 CCTV14少儿 [1080p],http://27.41.245.32:801/hls/14/index.m3u8
-广东少儿 [1080p],http://119.123.176.238:8086/hls/40/index.m3u8
-广东少儿 [1080p],http://14.21.90.68:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-广东少儿 [1080p],http://rihou.cc:555/tv/[AtI]广东少儿
 北京卡酷少儿 [1080p],http://vapi.91kds.cc/live1/btv1.m3u8?id=btvkk&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
 北京卡酷少儿 [1080p],http://114.242.62.109:888/hls/26/index.m3u8
-北京卡酷少儿 [1080p],http://btjg.net:809/hls/49/index.m3u8
 浙江少儿 [1080p],http://vapi.91kds.cc/live1/zjtv2.m3u8?id=zjtv8&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
 浙江少儿 [1080p],http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿 [1080p],https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-内蒙古少儿 [1080p],http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-重庆少儿 [1080p],http://47.108.205.48/鸿雁重庆a.php?id=cqse
 东森幼幼台 [1080p],https://live.catvod.com/live.php?id=yoyo_twn
+
 
 
 
